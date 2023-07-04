@@ -1,4 +1,4 @@
-package rimo.tbim;
+package com.rimo.tbim;
 
 import dev.architectury.platform.forge.EventBuses;
 import net.minecraftforge.fml.common.Mod;

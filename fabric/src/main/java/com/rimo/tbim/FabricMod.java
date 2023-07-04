@@ -1,4 +1,4 @@
-package rimo.tbim;
+package com.rimo.tbim;
 
 import net.fabricmc.api.ModInitializer;
 

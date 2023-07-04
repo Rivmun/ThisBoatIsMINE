@@ -1,4 +1,4 @@
-package rimo.tbim;
+package com.rimo.tbim;
 
 import dev.architectury.event.EventResult;
 import dev.architectury.event.events.common.InteractionEvent;
