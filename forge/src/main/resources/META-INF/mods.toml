@@ -31,6 +31,6 @@ side = "BOTH"
 [[dependencies.tbim]]
 modId = "architectury"
 mandatory = true
-versionRange = "[2.0)"
+versionRange = "[2.0,)"
 ordering = "AFTER"
 side = "BOTH"
