@@ -24,14 +24,14 @@
   ],
   "depends": {
     "fabric": "*",
-    "minecraft": ">=1.18",
-    "architectury": "*"
+    "minecraft": ">=1.17",
+    "architectury": ">=2.0"
   },
   "custom": {
     "modmenu": {
       "links": {
         "modmenu.modrinth": "https://modrinth.com/mod/this-boat-is-mine",
-        "MCMOD.cn": "https://www.mcmod.cn/class/9053.html"
+        "MCMOD.cn": "https://www.mcmod.cn/class/10988.html"
       }
     }
   }
