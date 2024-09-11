@@ -1,5 +1,5 @@
 modLoader="javafml"
-loaderVersion="${forgeLoaderRange}"
+loaderVersion="[3.0,)"
 license="MIT"
 issueTrackerURL="${modIssueTracker}"
 
@@ -16,16 +16,16 @@ ${modDescription}
 '''
 
 [[dependencies.tbim]]
-   modId="forge"
-   mandatory=true
-   versionRange="${forgeLoaderRange}"
+   modId="neoforge"
+   type="required"
+   versionRange="${neoforgeLoaderRange}"
    ordering="NONE"
    side="BOTH"
 
 [[dependencies.tbim]]
    modId="minecraft"
-   mandatory=true
-   versionRange="${forgeMinecraftVersionRange}"
+   type="required"
+   versionRange="${neoforgeMinecraftVersionRange}"
    ordering="NONE"
    side="BOTH"
 
